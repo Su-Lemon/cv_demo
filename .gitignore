@@ -1,0 +1,7 @@
+# python
+*.py[cod]
+*.so
+
+# User
+__pycache__/*
+/data/*
